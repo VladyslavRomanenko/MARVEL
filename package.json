@@ -3,9 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://VladyslavRomanenko.github.io/MARVEL",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/thedebuggers-goit-team-project/",
+    "build": "vite build --base=/MARVEL/",
     "preview": "vite preview"
   },
   "devDependencies": {
